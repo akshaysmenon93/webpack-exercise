@@ -1,3 +1,5 @@
+import './styles/index.scss';
+
 const sambarRecipe = {
     vendakka : 10, 
     tomato : 2, 
